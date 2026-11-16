@@ -1003,7 +1003,7 @@
   var tabButtons = Array.prototype.slice.call(document.querySelectorAll(".view-tab"));
   if (!canvas || !win || !tabButtons.length) return;
 
-  var current = "funnel";
+  var current = "stack";
 
   function itemById(view, id) {
     var list = views[view];
@@ -1101,12 +1101,11 @@
     wrap.innerHTML = [
       '<div class="car-photo">',
       '<img src="car-cutaway.png" alt="Cutaway of a car. Engine, steering wheel, drivetrain, and rear wheel can be inspected.">',
-      '<button type="button" class="hot car-hit" data-id="drivetrain" aria-label="Drivetrain" style="left:32%;top:54%;width:50%;height:11%"></button>',
-      '<button type="button" class="hot car-hit car-hit-round" data-id="engine" aria-label="Engine" style="left:12%;top:47%;width:22%;height:22%"></button>',
-      '<button type="button" class="hot car-hit car-hit-round" data-id="steer" aria-label="Steering wheel" style="left:40%;top:14%;width:16%;height:22%"></button>',
-      '<button type="button" class="hot car-hit car-hit-round" data-id="wheel" aria-label="Rear wheel" style="left:81%;top:40%;width:14%;height:28%"></button>',
-      '</div>',
-      '<p class="car-note">Engine, steering wheel, drivetrain, and the rear wheel.</p>'
+      '<button type="button" class="hot car-hit" data-id="drivetrain" aria-label="Drivetrain" style="left:33%;top:36%;width:46%;height:28%"></button>',
+      '<button type="button" class="hot car-hit car-hit-round" data-id="engine" aria-label="Engine" style="left:11%;top:50%;width:25%;height:20%"></button>',
+      '<button type="button" class="hot car-hit car-hit-round" data-id="steer" aria-label="Steering wheel" style="left:39%;top:18%;width:14%;height:18%"></button>',
+      '<button type="button" class="hot car-hit car-hit-round" data-id="wheel" aria-label="Rear wheel" style="left:76%;top:38%;width:16%;height:30%"></button>',
+      '</div>'
     ].join("");
     return wrap;
   }
@@ -1191,6 +1190,6 @@
   });
 
   var hashView = (location.hash || "").replace("#", "");
-  render(views[hashView] ? hashView : "funnel");
+  render(views[hashView] ? hashView : "stack");
   if (views[hashView]) activateTab(hashView);
 })();
