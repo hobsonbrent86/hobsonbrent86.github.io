@@ -6,10 +6,10 @@
         label: "Top of funnel",
         span: "100%",
         kicker: "Top of funnel",
-        title: "Brand, before the click",
-        lead: "The work that makes a company visible to people who are not in a buying cycle yet.",
+        title: "Brand",
+        lead: "Work that makes a company visible before someone is ready to buy.",
         examples: [
-          ["Atlassian", "Impossible Alone films, the F1 sponsorship, and television, held as one product story with the digital plan."],
+          ["Atlassian", "Impossible Alone films, the F1 sponsorship, and television, planned with the digital work."],
           ["Workday", "Business Caddie, the global spot with Phil Mickelson, across television, digital, print, and outdoor."],
           ["Unitek", "A multi-million-dollar mix of TV, radio, outdoor, and print, run beside paid search."],
           ["BIOBIZZ", "Opened the North American brand. Primary research on US partners, then the market plan."],
@@ -22,13 +22,13 @@
         span: "86%",
         kicker: "Middle of funnel",
         title: "Consideration",
-        lead: "The stretch where someone knows the name and has not raised a hand.",
+        lead: "People who know the name and have not asked to talk.",
         examples: [
-          ["Atlassian", "Lifecycle and ABM across Jira and the rest of the portfolio. Email, SMS, push, web, and paid in one mix. Portfolio media on the order of $100M a year."],
+          ["Atlassian", "Lifecycle and ABM across Jira and the rest of the portfolio. Email, SMS, push, web, and paid. Portfolio media on the order of $100M a year."],
           ["Workday", "Lead generation and personalization for an enterprise platform. Audience, rule, and page kept in line."],
           ["CollabNet", "Marketo nurture against Salesforce, so the email and the CRM described the same buyer."],
           ["Unitek", "Email and direct mail for people who had inquired and had not applied."],
-          ["Wytebox", "Email, LinkedIn, and phone sequences, enrolled by cohort: CEO, ICP, Florida, nursing, workforce, transportation."]
+          ["Wytebox", "Email, LinkedIn, and phone sequences for CEO, ICP, Florida, nursing, workforce, and transportation cohorts."]
         ]
       },
       {
@@ -37,9 +37,9 @@
         span: "72%",
         kicker: "Bottom of funnel",
         title: "Pipeline",
-        lead: "Where a program has to become a lead sales will work, and a number finance will believe.",
+        lead: "Turning a program into a lead sales will take, with a number finance can check.",
         examples: [
-          ["Workday", "Cost shown beside pipeline, so a click was not the result. The path from first response to a lead sales could work."],
+          ["Workday", "Cost shown beside pipeline. The path from first response to a lead sales could work."],
           ["CollabNet", "A lead passed to sales when the lifecycle said it was ready, with context. SEO and SEM on a $1M+ budget."],
           ["Atlassian", "Sat with product and engineering so the market story matched what sales was about to show. Spend moved when pipeline contribution was weak."],
           ["Unitek", "PPC and admissions on enrollment. Budget moved when a channel or a market missed."],
@@ -52,14 +52,14 @@
         label: "Post-conversion",
         span: "64%",
         kicker: "Post-conversion",
-        title: "The first months after yes",
+        title: "The first months",
         lead: "The handoff, the intake, and whether the new account actually starts.",
         examples: [
           ["Wytebox", "Activation and repeat usage watched weekly. Onboarding across Workspace, Jamf, Intune, and the other apps. The product ships through MDM."],
           ["Workday", "Manual campaign and routing work replaced with systems. Operational efficiency up 40%."],
           ["Unitek", "Intake rebuilt when lead volume outran the team. Handoffs with admissions renegotiated."],
-          ["Atlassian", "Brand spend, nurture, and the sales handoff treated as one motion, including bottom-up adoption."],
-          ["CollabNet", "Page, email, and ad kept on one offer through the handoff, so sales did not inherit a stranger."]
+          ["Atlassian", "Brand spend, nurture, and the sales handoff were planned together, including bottom-up adoption."],
+          ["CollabNet", "The page, the email, and the ad used the same offer through the handoff."]
         ]
       },
       {
@@ -70,11 +70,11 @@
         title: "Keeping the account",
         lead: "Usage, renewal risk, and the decision to stop a program that is not holding.",
         examples: [
-          ["Atlassian", "Retention, attribution, and incrementality on lifecycle programs, not only the first click."],
+          ["Atlassian", "Retention, attribution, and incrementality on lifecycle programs, measured past the first click."],
           ["Wytebox", "Churn flagged from declining usage before the renewal talk. Retention tests given a kill date before they launched."],
-          ["Workday", "Programs with sales tied to expansion, not only to a new logo."],
-          ["BIOBIZZ", "First-year revenue came with distributor relationships that could be expanded, not a one-time order."],
-          ["Wytebox", "A weekly health digest so usage was visible before someone had to ask for it."]
+          ["Workday", "Sales programs covered expansion and new logos."],
+          ["BIOBIZZ", "First-year revenue came with distributor relationships that could grow."],
+          ["Wytebox", "A weekly health digest of usage."]
         ]
       },
       {
@@ -83,13 +83,13 @@
         span: "64%",
         kicker: "Customer success",
         title: "After the sale, with the account team",
-        lead: "Not a CSM title. The work of sitting with the people who own the account, and giving them something true to take into the review.",
+        lead: "Sat with the people who own the account and gave them a readout for the review.",
         examples: [
-          ["Atlassian", "Gainsight and LaunchDarkly used with analytics partners so journeys, flagged experiences, and campaign learnings sat in one readout."],
+          ["Atlassian", "Gainsight and LaunchDarkly were used with analytics partners on journeys, flagged experiences, and campaign learnings."],
           ["Atlassian", "QBR-style reviews with field, portfolio marketing, and customer success on launches and on which advocates could be asked again."],
           ["Workday", "Sat with customer success and sales on which segments and messages were actually landing."],
-          ["Wytebox", "Health posted to the CS channel. Advisor reviews run like a QBR: usage, pipeline, and what to change next."],
-          ["Wytebox", "Renewal risk raised from product usage, not from a spreadsheet updated the night before the call."]
+          ["Wytebox", "Health posted to the CS channel. Advisor reviews cover usage, pipeline, and what to change next."],
+          ["Wytebox", "Renewal risk came from product usage."]
         ]
       }
     ],
@@ -97,13 +97,13 @@
       {
         id: "steer",
         kicker: "Steering wheel",
-        title: "Accountable for the whole thing",
-        lead: "The seat where the plan, the people, and the result meet.",
+        title: "Running it",
+        lead: "Owns the plan, the people, and the result.",
         examples: [
-          ["Wytebox", "Founder and CEO. Positioning, roadmap, and P&L in one seat. Fundraising, enterprise sales, and the weekly operating review."],
+          ["Wytebox", "Founder and CEO. Owns positioning, the roadmap, and the P&L. Also fundraising, enterprise sales, and the weekly operating review."],
           ["BIOBIZZ", "General manager. Started the North American subsidiary and led the team that grew revenue in the first year."],
           ["Benefits for Fallen Heroes", "COO and board member. Original incorporator. Wrote the bylaws, filed the entity, and ran day-to-day operations."],
-          ["Unitek", "Marketing director for 25+ people: internal staff, offshore development and infrastructure, and an agency."],
+          ["Unitek", "Marketing director for 25+ people. That covered internal staff, offshore development and infrastructure, and an agency."],
           ["Atlassian", "Senior media leader. Portfolio scope on the order of $100M a year, with a team running Agile, Kanban, and SAFe."]
         ]
       },
@@ -124,26 +124,26 @@
         id: "drivetrain",
         kicker: "Drivetrain",
         title: "Between the teams",
-        lead: "The part that connects power to the road. Product, sales, finance, admissions, agencies.",
+        lead: "The work between product, sales, finance, admissions, and agencies.",
         examples: [
-          ["Atlassian", "Product, engineering, content, design, sales, and agencies on one launch calendar, one brief, and a readout after."],
+          ["Atlassian", "Product, engineering, content, design, sales, and agencies shared a launch calendar, a brief, and a readout after."],
           ["Workday", "Finance and sales on forecast-friendly numbers, budget pacing, and long-cycle journeys."],
-          ["Unitek", "Admissions and marketing on enrollment, not on a lead that never became a student."],
-          ["CollabNet", "Sales on lead acceptance and pipeline, so marketing did not declare a win the floor would not work."],
+          ["Unitek", "Admissions and marketing measured the work by enrollment."],
+          ["CollabNet", "Worked with sales on which leads they would accept, and on pipeline."],
           ["Wytebox", "Product, sales, and marketing in the same week. The message, the sequence, and the product have to match."]
         ]
       },
       {
         id: "wheel",
         kicker: "Wheel",
-        title: "What it stands on",
-        lead: "Starting the thing, the system under it, and the judgment to keep both honest.",
+        title: "The base",
+        lead: "Starting the company, the system under it, and checking the work against the numbers.",
         examples: [
-          ["Wytebox", "From concept to a production system. No inherited product, no inherited team to hide behind."],
+          ["Wytebox", "Took it from an idea to a production system."],
           ["BIOBIZZ", "A subsidiary that did not exist. Research first, then a market plan, then revenue in year one."],
-          ["Benefits for Fallen Heroes", "Bylaws, the filing, a three-year forecast, and the daily operation. The foundation, on paper and in practice."],
-          ["Workday and CollabNet", "The CRM, the automation, and the analytics had to describe the same account. If they did not, the program was fiction."],
-          ["The habit", "Stay close to the work. PPC, the website, the pipeline, and the code. A test with a kill date. A report a leadership team will use."]
+          ["Benefits for Fallen Heroes", "Wrote the bylaws, filed the entity, built a three-year forecast, and ran the daily operation."],
+          ["Workday and CollabNet", "The CRM, the automation, and the analytics had to describe the same account."],
+          ["The habit", "Stay close to the work. That includes PPC, the website, the pipeline, and the code. Tests get a kill date. Reports are written for a leadership team."]
         ]
       }
     ],
@@ -167,7 +167,7 @@
         lead: "These are production agents inside Wytebox. Each one has a job, a source of context, and a place the result goes.",
         examples: [
           ["Wytebox", "68 agents in five areas. Inbound, outbound, lifecycle, operations, and brand."],
-          ["Product", "They call MCP for context instead of waiting on a connector to each work tool."]
+          ["Product", "They call MCP for company context. They do not need a connector for each work tool."]
         ]
       },
       {
@@ -196,7 +196,7 @@
         title: "Cursor",
         lead: "Cursor is where the Wytebox code and the agent tooling are written. Architecture, agents, and fixes ship from the same editor.",
         examples: [
-          ["Wytebox", "Hands-on in the repo. The work is not a spec handed to someone else."],
+          ["Wytebox", "Hands-on in the repo."],
           ["GTM", "HubSpot and the outbound tools are connected in the editor, so an agent can see the account before it drafts."]
         ]
       },
@@ -216,7 +216,7 @@
         lead: "Fireworks is the default model API for Wytebox enrichment. Workers send the context a step needs. The model returns summaries, work sessions, and project groupings.",
         examples: [
           ["Wytebox", "Those three enrichment steps run on a contracted Fireworks account."],
-          ["Boundary", "The worker does not send the desktop ciphertext. Customer content is not a training set for the provider."]
+          ["Boundary", "The worker does not send the desktop ciphertext. Customer content stays out of provider training."]
         ]
       },
       {
@@ -225,7 +225,7 @@
         title: "OpenAI",
         lead: "OpenAI is an alternate model API in Wytebox, wired next to Fireworks and Together. It is used when that model fits the job and the account has it turned on.",
         examples: [
-          ["Wytebox", "Same class of work as Fireworks. Enrichment prompts and outputs, under a contract, not a consumer chat account."]
+          ["Wytebox", "Same class of work as Fireworks. Enrichment prompts and outputs run under a contract."]
         ]
       },
       {
@@ -234,7 +234,7 @@
         title: "Together",
         lead: "Together is the other alternate model API. It does the same enrichment job as OpenAI when we want a different model and the contract covers the data.",
         examples: [
-          ["Wytebox", "Available beside Fireworks. It is not the default, and it is not called on every request."]
+          ["Wytebox", "Available beside Fireworks. Used when that model is the right one for the job."]
         ]
       },
       {
@@ -275,7 +275,7 @@
         title: "Neo4j",
         lead: "Neo4j holds the Wytebox work graph. Graph sync writes derived nodes and edges. Analytical and natural-language queries read them in Cypher.",
         examples: [
-          ["Wytebox", "Aura is the production graph. It is a projection of the work, not a second copy of every raw event."],
+          ["Wytebox", "Aura is the production graph. It holds the derived work. The raw record stays in Postgres."],
           ["Boundary", "The raw record stays in Postgres. The graph is what you query when the question is about how work connects."]
         ]
       },
@@ -286,7 +286,7 @@
         lead: "Retrieval uses more than one vector store. The text is embedded, the nearest records are recalled, and a short context is handed to the model.",
         examples: [
           ["Wytebox", "pgvector on Postgres for entity search. Other vector stores when the data needed its own index."],
-          ["GCP", "Vector search sat between Vertex and the NoSQL store, so the model retrieved from our data instead of answering blind."]
+          ["GCP", "Vector search sat between Vertex and the NoSQL store, so the model retrieved from our data."]
         ]
       },
       {
@@ -312,7 +312,7 @@
         id: "sql", band: "Retrieval", span: "84%", chip: "SQL",
         kicker: "Retrieval",
         title: "SQL",
-        lead: "SQL is the precise layer under retrieval. Vectors and the graph find a neighborhood. SQL is where account scope, rows, and the final number live.",
+        lead: "SQL is the precise layer under retrieval. Vectors and the graph find related records. SQL is where account scope, rows, and the final number live.",
         examples: [
           ["Wytebox", "Row-level security and account scope are in Postgres. Neo4j and the vectors point back here."],
           ["Workday", "Campaign reporting had to match the warehouse and the CRM. If they disagreed, the number was not ready to use."]
@@ -371,7 +371,7 @@
         title: "WordPress",
         lead: "At CollabNet, WordPress was the marketing site. Maintenance, design, and development sat with the marketing job.",
         examples: [
-          ["CollabNet", "The site was updated and shipped in-house, not handed off as a ticket."]
+          ["CollabNet", "The site was updated and shipped in-house."]
         ]
       },
       {
@@ -480,7 +480,7 @@
         id: "systems", band: "Systems", span: "98%", chip: "Systems",
         kicker: "Systems",
         title: "Systems of record",
-        lead: "The practical business stack, across companies. CRM and automation, the tracker the team actually used, the creative tools, the books, and the ads console. If two of them disagreed about an account, the number was soft.",
+        lead: "The practical business stack, across companies. CRM and automation, the tracker the team used, the creative tools, the books, and the ads console. They had to agree on an account.",
         examples: [
           ["Marketing", "Admin on Salesforce, Pardot, Marketo, HubSpot, Iterable, and ActionIQ. Google Ads and Google Analytics on the same programs."],
           ["The work", "Jira, Confluence, Asana, ClickUp, Notion, and Slack. Whichever system the company used to assign the work and keep the brief."],
@@ -512,7 +512,7 @@
         title: "Marketo",
         lead: "At CollabNet, Marketo ran lists and nurture. It was administered in-house, and it had to agree with Salesforce before a lead was treated as real.",
         examples: [
-          ["CollabNet", "Nurture and the sales handoff were one path. SEO and SEM fed the same offer into that path."]
+          ["CollabNet", "Nurture and the sales handoff used the same offer. SEO and SEM fed that offer."]
         ]
       },
       {
@@ -530,7 +530,7 @@
         title: "ActionIQ",
         lead: "At Atlassian, ActionIQ was the customer data platform in the journey. It built the audiences that Iterable and paid media used.",
         examples: [
-          ["Atlassian", "Campaign, product, and customer data were read together there, instead of in separate extracts that drifted apart."]
+          ["Atlassian", "Campaign, product, and customer data were read together there."]
         ]
       },
       {
@@ -539,8 +539,8 @@
         title: "Google Ads",
         lead: "Google Ads was hands-on paid search. At CollabNet it sat inside a $1M+ SEO and SEM budget. At Unitek it was run directly, beside TV, radio, outdoor, and print.",
         examples: [
-          ["CollabNet", "The ad and the page carried one offer. Google Ads certified."],
-          ["Unitek", "PPC was operated, not only briefed to an agency."]
+          ["CollabNet", "The ad and the page used the same offer. Google Ads certified."],
+          ["Unitek", "PPC was run directly, including work that was not handed to an agency."]
         ]
       },
       {
@@ -567,7 +567,7 @@
         title: "Pardot",
         lead: "Pardot was Salesforce automation, administered in-house. Lists, nurture, and scoring had to land on the same opportunity sales already had open.",
         examples: [
-          ["Across roles", "Platform admin, next to Salesforce and Marketo. The email path and the CRM account were one record, not two exports."]
+          ["Across roles", "Platform admin, next to Salesforce and Marketo. The email path and the CRM account were the same record."]
         ]
       },
       {
@@ -576,16 +576,16 @@
         title: "Asana",
         lead: "Asana ran the work when the team was not living in Jira. Campaign tasks, owners, and dates sat there so marketing and the people they depended on saw the same list.",
         examples: [
-          ["Across roles", "Used as the operating tracker for programs, reviews, and handoffs. The brief and the status were in the task, not in a side thread."]
+          ["Across roles", "Used as the operating tracker for programs, reviews, and handoffs. The brief and the status lived in the task."]
         ]
       },
       {
         id: "clickup", band: "Systems", span: "98%", chip: "ClickUp",
         kicker: "Systems",
         title: "ClickUp",
-        lead: "ClickUp was the same kind of system when that was the company tool. Tasks, docs, and status in one place, instead of a tracker plus a separate folder of briefs.",
+        lead: "ClickUp was the tracker when that was the company tool. Tasks, docs, and status lived there.",
         examples: [
-          ["Across roles", "Work was assigned and closed there. If the status in ClickUp and the status in the CRM did not match, the program was not actually done."]
+          ["Across roles", "Work was assigned and closed there. Status in ClickUp had to match status in the CRM."]
         ]
       },
       {
@@ -629,16 +629,16 @@
         id: "launchdarkly", band: "Systems", span: "98%", chip: "LaunchDarkly",
         kicker: "Systems",
         title: "LaunchDarkly",
-        lead: "At Atlassian, LaunchDarkly flags were read with the campaign and with Gainsight. A flagged experience, a journey, and the media could be reviewed as one program.",
+        lead: "At Atlassian, LaunchDarkly flags were read with the campaign and with Gainsight. A flagged experience, a journey, and the media were reviewed together.",
         examples: [
-          ["Atlassian", "Used with analytics and product partners. The flag was not a separate science project from the campaign."]
+          ["Atlassian", "Used with analytics and product partners, in the same review as the campaign."]
         ]
       },
       {
         id: "photoshop", band: "Systems", span: "98%", chip: "Photoshop",
         kicker: "Systems",
         title: "Photoshop",
-        lead: "Photoshop was for the finished file. Ads, landing pages, outdoor, and print that had to match the offer, produced or directed to the pixel, not only briefed.",
+        lead: "Photoshop was for the finished file. Ads, landing pages, outdoor, and print that had to match the offer.",
         examples: [
           ["Campaigns", "Used on the assets that ran. The page, the ad, and the print piece carried the same offer."]
         ]
@@ -659,7 +659,7 @@
         lead: "Google Analytics was the web measurement system on the programs, administered directly. Spend and creative moved when the stage numbers said to.",
         examples: [
           ["Atlassian", "Read with Iterable, paid media, and the Google Marketing Platform on the same campaigns."],
-          ["Across roles", "Platform admin, with the CRM. A conversion that the analytics and the opportunity could not both explain was not counted."]
+          ["Across roles", "Platform admin, with the CRM. A conversion was counted when analytics and the opportunity agreed."]
         ]
       },
       {
@@ -668,7 +668,7 @@
         title: "Xero",
         lead: "Xero is the Wytebox ledger. Bank activity from Mercury is categorized and pushed in. Invoices and the monthly true-up are run against it.",
         examples: [
-          ["Wytebox", "Agents apply bank rules, sync expenses, and chase overdue invoices. The books are not a quarterly reconstruction."]
+          ["Wytebox", "Agents apply bank rules, sync expenses, and chase overdue invoices."]
         ]
       },
       {
@@ -677,7 +677,7 @@
         title: "Stripe",
         lead: "Stripe is how Wytebox takes payment. Those charges are converted into a form Xero can import, so revenue in the processor and revenue in the ledger match.",
         examples: [
-          ["Wytebox", "Payment exports feed the books. Pitch numbers that cite revenue are taken from this path, not from a slide someone typed."]
+          ["Wytebox", "Payment exports feed the books. Revenue figures in a pitch come from this path."]
         ]
       },
       {
@@ -686,14 +686,14 @@
         title: "Mercury",
         lead: "Mercury is the Wytebox bank. Transactions are classified, checked for odd vendor charges, and synced to the sheet, to Supabase, and to Xero.",
         examples: [
-          ["Wytebox", "The monthly true-up reconciles Mercury and Xero back to 2024. A category that only exists in the bank is not finished."]
+          ["Wytebox", "The monthly true-up reconciles Mercury and Xero back to 2024."]
         ]
       },
       {
         id: "gusto", band: "Systems", span: "98%", chip: "Gusto",
         kicker: "Systems",
         title: "Gusto",
-        lead: "Gusto runs Wytebox payroll. Company and payroll data are read from the API so payroll is part of the operating picture, not a separate login someone else owns.",
+        lead: "Gusto runs Wytebox payroll. Company and payroll data are read from the API and kept with the rest of the books.",
         examples: [
           ["Wytebox", "Used with Xero and Mercury. People cost and the rest of the books are looked at together."]
         ]
@@ -717,14 +717,14 @@
         examples: [
           ["Compute", "EC2, ECS, EKS, and Lambda. Workers that ingest and enrich, and short calls that should end with the request."],
           ["Data", "RDS and Aurora for Postgres. S3 for objects and artifacts. MSK for the Kafka-compatible stream the desktop already speaks."],
-          ["Control", "VPC and IAM for a private network and one operator identity. KMS for keys. Secrets Manager for credentials. CloudFront and SES for delivery and mail. CloudWatch for logs."]
+          ["Control", "VPC and IAM for a private network and operator access. KMS for keys. Secrets Manager for credentials. CloudFront and SES for delivery and mail. CloudWatch for logs."]
         ]
       },
       {
         id: "ec2", band: "Cloud", span: "100%", chip: "EC2",
         kicker: "AWS",
         title: "EC2",
-        lead: "EC2 runs the Wytebox jobs that have to stay up. Ingest, decrypt, and enrichment are processes, not a single web request.",
+        lead: "EC2 runs the Wytebox jobs that have to stay up. That includes ingest, decrypt, and enrichment.",
         examples: [
           ["Wytebox", "Those workers sit on compute in the same account as the database and the stream."]
         ]
@@ -744,7 +744,7 @@
         title: "Lambda",
         lead: "Lambda is for the short call inside the AWS account, the one that ends with the request. The pipeline that holds a stream open stays on EC2 or containers.",
         examples: [
-          ["Wytebox", "Used for those short jobs next to the long-running workers, not as a replacement for them."]
+          ["Wytebox", "Used for those short jobs next to the long-running workers."]
         ]
       },
       {
@@ -778,9 +778,9 @@
         id: "vpc", band: "Cloud", span: "100%", chip: "VPC and IAM",
         kicker: "AWS",
         title: "VPC and IAM",
-        lead: "VPC keeps the databases and brokers off the public internet. IAM is the identity boundary for operators, through SSO, instead of a separate login for every service.",
+        lead: "VPC keeps the databases and brokers off the public internet. IAM is how operators sign in, through SSO.",
         examples: [
-          ["Wytebox", "The data plane is one network and one set of permissions. Production access is not a shared password across vendors."]
+          ["Wytebox", "The data plane sits on a private network. Operator access goes through IAM."]
         ]
       },
       {
@@ -836,7 +836,7 @@
         title: "BigQuery",
         lead: "BigQuery was where the GCP data was analyzed. Questions that were too large for a dashboard extract ran on the same records the RAG layer retrieved from.",
         examples: [
-          ["GCP", "Warehouse queries sat next to Vertex, the NoSQL store, and Cloud Storage. Analysis was not a separate stack."]
+          ["GCP", "Warehouse queries sat next to Vertex, the NoSQL store, and Cloud Storage."]
         ]
       },
       {
@@ -854,7 +854,7 @@
         title: "Pub/Sub",
         lead: "Pub/Sub moved events through the GCP system. A producer published. A consumer picked up the work of embedding, indexing, or writing a file to object storage.",
         examples: [
-          ["GCP", "This is the same role Redpanda and MSK play elsewhere. The RAG pipeline did not pass files around by hand."]
+          ["GCP", "This is the same role Redpanda and MSK play elsewhere."]
         ]
       },
       {
@@ -864,7 +864,7 @@
         lead: "Cloud Storage was the object store in the RAG system. Vertex, a NoSQL store, and vector search ran on our data, and the source files and exports lived here with them.",
         examples: [
           ["Wytebox", "Files that did not belong in a table sat in Cloud Storage. The NoSQL store held the records. Vector search recalled them. Vertex generated from that context."],
-          ["GCP", "Object storage, the NoSQL records, and the vectors were one retrieval path."]
+          ["GCP", "Object storage, the NoSQL records, and the vectors were used together for retrieval."]
         ]
       },
       {
@@ -918,9 +918,9 @@
         id: "intune", band: "Endpoint", span: "100%", chip: "Intune",
         kicker: "Endpoint",
         title: "Intune",
-        lead: "Intune is the Microsoft path for that same rollout. The agent is packaged for the tool IT already uses, instead of asking them to adopt a new one.",
+        lead: "Intune is the Microsoft path for that same rollout. The agent is packaged for the tool IT already uses.",
         examples: [
-          ["Wytebox", "Used next to Jamf, Automox, and NinjaOne. One agent, four ways onto the device."]
+          ["Wytebox", "The same agent also ships through Jamf, Automox, and NinjaOne."]
         ]
       },
       {
@@ -992,7 +992,7 @@
         title: "CI/CD",
         lead: "CI/CD is how a Wytebox change is built and released. It is reviewed, built, and shipped into separate production, staging, and development environments.",
         examples: [
-          ["Wytebox", "The release is not a deploy from a laptop. The desktop build and the web app both go through this path."]
+          ["Wytebox", "The desktop build and the web app both go through this path."]
         ]
       }
     ]
